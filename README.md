@@ -87,4 +87,5 @@ Contributions are welcome! To contribute:
     ```
 
 5. **Open a Pull Request.**
-##See the [CHANGELOG.md](CHANGELOG.md) file for a detailed list of changes and updates.
+  
+See the [CHANGELOG.md](CHANGELOG.md) file for a detailed list of changes and updates.
